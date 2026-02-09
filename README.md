@@ -1,4 +1,4 @@
-<center><h1>Spline Collider</h1></center>
+<h1 align="center">Unity Spline Collider</h1>
 <p align="center">
   <img src="Documentation~/Images/SplineCollider Preview.svg" width="256">
 </p>
