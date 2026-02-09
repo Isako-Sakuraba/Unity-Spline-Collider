@@ -45,8 +45,9 @@ workflow.
 2. Open **Window → Package Manager**
 3. Click **+ → Add package from git URL**
 4. Enter:
-
-
+```bash
+https://github.com/Isako-Sakuraba/Unity-Spline-Collider.git
+```
 ---
 
 ## Quick Start
