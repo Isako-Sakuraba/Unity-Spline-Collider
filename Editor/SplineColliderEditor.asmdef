@@ -1,0 +1,16 @@
+{
+    "name": "SplineColliderEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:56ea21463a31aad439069efec8125933"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
