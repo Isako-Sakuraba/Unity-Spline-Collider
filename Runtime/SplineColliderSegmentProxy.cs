@@ -17,6 +17,8 @@ namespace SplineCollider
     /// </remarks>
     public sealed class SplineColliderSegmentProxy : MonoBehaviour
     {
+        [SerializeField]
+        [HideInInspector]
         private SplineCollider _owner;
 
         public void SetOwner(SplineCollider owner)
